@@ -1,5 +1,5 @@
 fn main() {
     let mut name = String::from("");
-    name.push_str("ali");
+    name = String::from("Ali");
     print!("{}\n", name);
 }
